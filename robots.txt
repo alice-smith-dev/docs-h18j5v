@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-tf812k.retailpos.com/sitemap.xml
